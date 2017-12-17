@@ -1,0 +1,10 @@
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\application\App.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\domain\Order.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\datasource\InMemoryRepository.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\presentation\OrderController.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\presentation\ResourceAssembler.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\domain\MyIdentifiable.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\presentation\OrderResourceAssembler.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\datasource\IdGenerator.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\presentation\OrderResource.java
+C:\Workspaces\UBS\oms\src\main\java\com\ubs\simonpowers\oms\datasource\OrderRepository.java
